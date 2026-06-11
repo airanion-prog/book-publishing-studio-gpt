@@ -10,6 +10,14 @@ Use the GPT here:
 
 https://chatgpt.com/g/g-6a018c4277188191bc6b6dc3e8c90622-book-publishing-studio-gpt
 
+## Created by
+
+Pradeep Bagga
+
+Pradeep Bagga has worked on 3 books, with 2 already published and 1 on the way. This GPT was created to help authors and professionals turn their knowledge, notes, experience, and rough ideas into structured book publishing material.
+
+This service is open to clients in India and worldwide.
+
 ## What this helps you do
 
 - convert a rough idea into a book concept
@@ -121,32 +129,44 @@ You receive:
 - promotional content
 - reader lead magnet plan
 
-## Simple process
+## How to order
 
-1. Open the GPT link.
-2. Share your book idea.
-3. Get a free first structure from the GPT.
-4. Choose a paid package if you want a complete prepared document.
-5. Send your book details by email.
-6. Receive your output as Google Doc, Word file, or PDF.
+1. Try the GPT first.
+2. Choose the package you want.
+3. Send your book idea and package name by email or WhatsApp.
+4. Pay through UPI.
+5. Share payment confirmation.
+6. Receive your document as Google Doc, Word file, or PDF.
+
+## Payment
+
+Preferred payment method:
+
+UPI: 8287472828@axisbank
+
+Please mention your name and selected package when sending the payment confirmation.
 
 ## Free resource
 
 Free KDP Book Planning Checklist:
 
-free-resources/kdp-book-planning-checklist.md
+[Open the checklist](free-resources/kdp-book-planning-checklist.md)
 
 ## Sample output
 
 Sample Book Outline:
 
-samples/sample-book-outline.md
+[Open the sample outline](samples/sample-book-outline.md)
 
 ## Contact
 
-Email:
+Name: Pradeep Bagga
 
-airanion@gmail.com
+Email: finalpolishiing@gmail.com
+
+WhatsApp / Phone: +91 8287472828
+
+UPI: 8287472828@axisbank
 
 ## Important note
 
