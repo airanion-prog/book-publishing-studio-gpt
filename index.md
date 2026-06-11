@@ -18,6 +18,28 @@ Pradeep Bagga has worked on 3 books, with 2 already published and 1 on the way. 
 
 This service is open to clients in India and worldwide.
 
+## Author portfolio
+
+### 1. IONO: A New Relationship with Indoor Atmosphere
+
+Format: KDP Select
+
+A practical book on indoor atmosphere, air quality, and the IONO approach to cleaner daily living.
+
+### 2. Matching Fabrics with Advanced Sewing Technology
+
+Format: KDP Select
+
+A specialist guide connecting fabric selection, garment production, and advanced sewing technology.
+
+### 3. Khadi: The Thread That Wove a Nation
+
+Subtitle: An Illustrated Journey from Cotton Fiber to India's Handspun Heritage
+
+Format: KDP, Paperback, and Hardcover
+
+A visual and educational journey through Khadi, from cotton fiber to India's handspun textile heritage.
+
 ## What this helps you do
 
 - convert a rough idea into a book concept
