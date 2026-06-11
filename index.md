@@ -180,6 +180,13 @@ Sample Book Outline:
 
 [Open the sample outline](samples/sample-book-outline.md)
 
+## More information
+
+- [Author Portfolio](portfolio.md)
+- [Frequently Asked Questions](faq.md)
+- [Free KDP Book Planning Checklist](free-resources/kdp-book-planning-checklist.md)
+- [Sample Book Outline](samples/sample-book-outline.md)
+
 ## Contact
 
 Name: Pradeep Bagga
