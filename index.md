@@ -4,6 +4,12 @@
 
 Book Publishing Studio GPT helps first-time authors, teachers, coaches, consultants, trainers, business owners, and subject experts convert rough ideas into structured book plans, Kindle-ready content, and launch material.
 
+## Send your book idea
+
+Use this form to request a paid book planning or publishing support package:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdlS72H6hSW8Od0HJQgF_u-RjrPlVSQzseH4tseHPjyHksqyw/viewform?usp=publish-editor
+
 ## Try the GPT
 
 Use the GPT here:
@@ -155,10 +161,14 @@ You receive:
 
 1. Try the GPT first.
 2. Choose the package you want.
-3. Send your book idea and package name by email or WhatsApp.
+3. Fill the book request form.
 4. Pay through UPI.
 5. Share payment confirmation.
 6. Receive your document as Google Doc, Word file, or PDF.
+
+Book request form:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdlS72H6hSW8Od0HJQgF_u-RjrPlVSQzseH4tseHPjyHksqyw/viewform?usp=publish-editor
 
 ## Payment
 
